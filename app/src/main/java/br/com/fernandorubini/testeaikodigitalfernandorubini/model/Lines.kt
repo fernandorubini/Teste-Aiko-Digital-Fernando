@@ -1,4 +1,4 @@
-package br.com.fernandorubini.testeaikofernandorubinifinal.model
+package br.com.fernandorubini.testeaikodigitalfernandorubini.model
 
 data class Lines(
     val cl: Int,

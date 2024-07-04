@@ -1,4 +1,4 @@
-package br.com.fernandorubini.testeaikofernandorubinifinal.model
+package br.com.fernandorubini.testeaikofernandorubini.model
 
 data class Previsao(
     val hr: String?,

@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Teste Aiko Digital Fernando Rubini</string>
+    <string name="app_name">Teste Aiko Fernando Rubini </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Linhas</string>
+    <string name="menu_lines">Linhas</string>
+    <string name="menu_map">Localização</string>
+    <string name="settings">Ajustes</string>
+    <string name="transport_city_sp">Sistema de Transporte de São Paulo</string>
+    <string name="hello_user">Olá Usuário</string>
+    <string name="stop_secundary">Terminal Secundário</string>
+    <string name="stop_principal">Terminal Principal</string>
+    <string name="number_bus">Número do Ônibus</string>
+    <string name="line_code">Código da Linha</string>
+    <string name="send_email">Aqui voce pode enviar um e-mail</string>
 </resources>

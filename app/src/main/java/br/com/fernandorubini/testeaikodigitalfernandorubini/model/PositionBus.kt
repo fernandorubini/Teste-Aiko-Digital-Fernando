@@ -1,4 +1,4 @@
-package br.com.fernandorubini.testeaikofernandorubinifinal.model
+package br.com.fernandorubini.testeaikodigitalfernandorubini.model
 
 import androidx.annotation.Keep
 
