@@ -1,5 +1,9 @@
 # 🚌 TesteAikoFernando
 
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=java)
+![Status](https://img.shields.io/badge/Status-Desenvolvido-yellow)
+![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
+
 Aplicativo Android desenvolvido em Kotlin como parte de um desafio técnico. O app consome a API da SPTrans (via proxy Aiko) para exibir informações em tempo real sobre linhas de ônibus, paradas, previsões e localização dos veículos no mapa.
 
 ---
